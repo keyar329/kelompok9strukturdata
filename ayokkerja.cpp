@@ -1,10 +1,3 @@
-/*
- * ============================================================
- *  SISTEM MANAJEMEN ANTRIAN RESTORAN NUSANTARA RAYA
- *  Mata Kuliah : Struktur Data
- *  Topik       : Array dan Stack
- * ============================================================
- */
 
 #include <iostream>
 #include <string>
